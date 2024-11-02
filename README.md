@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hadrien
+- 👋 Hi, I’m Hadrien !
 - 👀 I’m interested in 2D Animation and Video Games
 - 🌱 I’m currently learning Visual Development
 - 💞️ I’m looking to collaborate on 2D Video Games projects 
